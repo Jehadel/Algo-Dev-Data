@@ -1,9 +1,15 @@
 # Séance 0 – Ingénierie logicielle
 ## POO avancée, principes SOLID, Clean Code
 
-**Durée :** 3h30  
-**Public :** Master 1 Data Science  
-**Prérequis :** POO de base (classes, héritage, polymorphisme), Python intermédiaire
+Enseignant : Jean Delpech
+
+Cours : Data Science
+
+Classe : M1 Data/IA et Data/E
+
+Année scolaire : 2025/2026
+
+Dernière mise à jour : mai 2026
 
 ---
 
