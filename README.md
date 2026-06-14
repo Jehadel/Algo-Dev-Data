@@ -5,6 +5,12 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 
 [Séance 2](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_2_Complexite_Algorithmique_VIERGE.ipynb) : Complexité algorithmique, ndarray vs. list en Python (vectorisation), table de hashage (chaînage, linear probing)
 
+[Séance 3a](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_3_a-Structures_Dynamiques_VIERGE.ipynb) : Listes chaînées, Piles/files - LIFO/FIFO, récursion, mémoïsation
+
+[Séance 3b](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_3_b-Arbres_Binaires_VIERGE.ipynb) : Arbres binaires, parcours (BFS / DFS), arbres binaires de recherche (BST)
+
+[Séance 3c](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_3_c-Heap-VIERGE.ipynb) : Tas binaires (heap), opération (insertion, suppression…), Heapsort et Top-K.
+
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
 - [guide de rédaction](https://github.com/Jehadel/Algo-Dev-Data/blob/main/guide_memoire.md)
