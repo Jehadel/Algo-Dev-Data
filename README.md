@@ -11,6 +11,10 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 
 [Séance 3c](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_3_c-Heap-VIERGE.ipynb) : Tas binaires (heap), opération (insertion, suppression…), Heapsort et Top-K.
 
+[Séance 4a](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_a-Graphes-BFS-DFS-DAG_VIERGE.ipynb) : Graphes (intro, terminologie), DFS/BFS, backtracking, DAG
+
+
+
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
 - [guide de rédaction](https://github.com/Jehadel/Algo-Dev-Data/blob/main/guide_memoire.md)
