@@ -19,6 +19,8 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 
 [Séance 4b](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_b-Graphes-Plus_courts_chemins_VIERGE.ipynb) : plus court chemin, Dijskstra, A*
 
+[Séance 4C][https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_c-Graphes-PageRank.ipynb] : RandomWalk, PageRank
+
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
 - [guide de rédaction](https://github.com/Jehadel/Algo-Dev-Data/blob/main/guide_memoire.md)
