@@ -17,7 +17,7 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 ## Graphes
 [Séance 4a](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_a-Graphes-BFS-DFS-DAG_VIERGE.ipynb) : Graphes (intro, terminologie), DFS/BFS, backtracking, DAG
 
-
+[Séance 4b](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_b-Graphes-Plus_courts_chemins_VIERGE.ipynb) : plus court chemin, Dijskstra, A*
 
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
