@@ -21,6 +21,12 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 
 [Séance 4C](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_4_c-Graphes-PageRank.ipynb) : RandomWalk, PageRank
 
+## Textes
+
+[Séance 6](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_6-Index_Textuels.ipynb) : index textuels, TF-IDF, BM25, n-grams (théorie)
+
+[Séance 7]() : embeddings, bases vectorielles (théorie)
+
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
 - [guide de rédaction](https://github.com/Jehadel/Algo-Dev-Data/blob/main/guide_memoire.md)
