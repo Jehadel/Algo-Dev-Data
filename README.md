@@ -25,7 +25,7 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 
 [Séance 6](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_6-Index_Textuels.ipynb) : index textuels, TF-IDF, BM25, n-grams (théorie)
 
-[Séance 7]() : embeddings, bases vectorielles (théorie)
+[Séance 7](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Seance_7-Bases_Vectorielles.ipynb) : embeddings, bases vectorielles (théorie)
 
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
