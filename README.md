@@ -30,3 +30,4 @@ Cours d’algorithmie et quelques notions de génie logiciel et de POO avancée
 ## Mini-mémoires 
 - [sujets](https://github.com/Jehadel/Algo-Dev-Data/blob/main/sujets_mini-memoires.pdf)
 - [guide de rédaction](https://github.com/Jehadel/Algo-Dev-Data/blob/main/guide_memoire.md)
+- [fiche co-évaluation des présentations](https://github.com/Jehadel/Algo-Dev-Data/blob/main/Co-Evaluations-DataScience_vierge.xls)
